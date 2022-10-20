@@ -163,6 +163,9 @@ Minified version
 
 ### Changelog
 
+#### 1.3.1
+- Fixed: Enter a lower rating
+
 #### 1.3.0
 - Define rated star colors per level by using an array of colors
 
